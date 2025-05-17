@@ -1,5 +1,6 @@
-# Supa gift demo - <a href='supa.gift'> link </a>
+# Supa gift demo
 https://supa.gift
-# SupaFront - <a href='github.com/supagift/supafront'> link </a>
+# SupaFront
 https://github.com.supagift/supafront
-# Docs - <a href='github.com/supagift/core'> link</a>
+# Docs
+https://github.com/supagift/core
